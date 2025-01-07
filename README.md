@@ -7,12 +7,12 @@ numpy, matplotlib, tqdm
 # Folder Structure
 ```
 ├── ARCLOADER.py
-├── data # original ARC dataset
+├── data                   # original ARC dataset
 │   ├── evaluation
 │   └── training
-├── settings.json # color RGB values (with additional 3 colors)
+├── settings.json          # color RGB values (with additional 3 colors)
 ├── thumbnail_generator.py # visualized image sets
-└── VISUALIZATION.py # visualization code
+└── VISUALIZATION.py       # visualization code
 ```
 # Initial Execution
 ```
